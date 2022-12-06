@@ -13,7 +13,7 @@ async function main() {
 
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.
-// 0x1d7661e624A6ec99779e7eaAA482B4519bcC7b74
+// 0x354784B3C94a0Cb79ACC385e7b6A2C999fDeA142
 main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
